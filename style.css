@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Cairo', sans-serif !important;
+}
+
+/* buttons */
+button[data-testid="stBaseButton-primary"] {
+    background: #20c997;
+    color: white;
+    outline: none;
+    border: none;
+    transition: 0.5s;
+}
+
+button[data-testid="stBaseButton-primary"]:hover,
+button[data-testid="stBaseButton-primary"]:focus {
+    background: #1bb587;
+    color: white !important;
+    outline: none;
+    border: none;
+    transition: 0.5s;
+}
+
+button[data-testid="stBaseButton-secondary"] {
+    background: #fff;
+    color: #000;
+    outline: none;
+    border: none;
+    transition: 0.5s;
+}
+
+button[data-testid="stBaseButton-secondary"]:hover,
+button[data-testid="stBaseButton-secondary"]:focus {
+    background: #20c997;
+    color: white !important;
+    outline: none;
+    border: none;
+    transition: 0.2s;
+}
+
+/* confidence bar */
+.confidence-bar {
+    background: #e9ecef;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 20px;
+    margin: 0.5rem 0;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #28a745, #20c997);
+    transition: width 0.3s ease;
+}
