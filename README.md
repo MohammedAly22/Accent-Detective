@@ -32,7 +32,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/MohammedAly22/Accent-Detective.git]
+git clone https://github.com/MohammedAly22/Accent-Detective.git
 cd accent-detective
 ```
 
