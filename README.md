@@ -83,7 +83,7 @@ You should expect to see this interface:
 ---
 ## ✨ Example
 
-1. Upload a .wav, .mp4, .m4a, etc. or paste a YouTube URL.
+1. Upload a `.wav`, `.mp4`, `.m4a`, etc. or paste a YouTube URL.
 
 ![alt text](images/image-1.png)
 
