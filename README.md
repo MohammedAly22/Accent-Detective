@@ -65,6 +65,7 @@ streamlit run app.py
 ├── accent_detector.py      # Core logic for transcription and accent detection
 ├── utils.py                # Visualization and helper functions
 ├── style.css               # Custom styling
+├── packages.txt            # System level packages `ffmpeg`
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 ```
