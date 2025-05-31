@@ -105,17 +105,17 @@ You should expect to see this interface:
 
 ---
 ## ⚙️ Tech Stack
-- Streamlit
+- `Streamlit`
 
-- OpenAI Whisper
+- `OpenAI Whisper`
 
-- Hugging Face Transformers
+- `Hugging Face Transformers`
 
-- yt-dlp
+- `yt-dlp`
 
-- Plotly
+- `Plotly`
 
-- librosa
+- `librosa`
 
 ---
 ## ⚠️ Limitations
