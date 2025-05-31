@@ -32,8 +32,8 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/MohammedAly22/Accent-Detector.git
-cd accent-detector
+git clone https://github.com/MohammedAly22/Accent-Detective.git]
+cd accent-detective
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
